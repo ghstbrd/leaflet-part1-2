@@ -1,1 +1,1 @@
-# leaflet-part1-2
+Utilized ChatGPT and class notes to complete the assignment
